@@ -1,0 +1,251 @@
+body{
+  background-color: #eeeeee;
+}
+
+.nav-link{
+  padding-left: 10%;
+  padding-top: 1%;
+  padding-right: 5%;
+  color: white;
+  text-decoration: none;
+  font-size: 125%;
+  font-family: 'Fredoka One', cursive;
+}
+
+.logo{
+  height: 115%;
+  width: 25%;
+  float: left;
+  border-radius: 50px;
+}
+
+.top-container{
+  height: 100px;
+  width: 75%;
+  display: inline-block;
+  margin-top: 13%;
+  border-radius: 50px 10px 10px 50px;
+  background-color: #010a43;
+}
+
+.about-container{
+  margin-top: 15%;
+}
+
+.team{
+  margin-top: 10%;
+  height: 120%;
+  width: 100%;
+  background-color: #f4f6ff;
+}
+
+.team-img{
+  height:100px;
+  width: 100px;
+  padding-left: 5%;
+  padding-right: 5%;
+  border-radius: 100%
+}
+
+#livfc{
+  padding-left: 12%;
+}
+
+.partner{
+  text-align: left;
+  font-size: 20px;
+}
+
+.sponsors{
+  margin-top: 10%;
+}
+
+.spon-img{
+  height:85px;
+  width: 85px;
+  padding-left: 5%;
+  padding-right: 5%;
+  border-radius: 100%
+}
+
+#ea{
+  padding-left: 8%;
+}
+
+.spon-logo{
+  margin-top: 5%;
+}
+
+.team-logo{
+  height: 15%;
+  width: 15%;
+  float: left;
+}
+
+.team-container{
+  height: 100px;
+  width: 82%;
+  display: inline-block;
+  margin-top: 5%;
+}
+
+#liv{
+  border-radius: 100px;
+  background-color: #d92027;
+}
+
+#city{
+  border-radius: 100px;
+  background-color: #3282b8;
+}
+
+#united{
+  border-radius: 100px;
+}
+
+#mun{
+  border-radius: 100px;
+  background-color: #dd2c00;
+  margin-top: 5%;
+}
+
+#chl{
+  border-radius: 100px;
+  background-color: #035aa6;
+}
+
+#lei{
+  border-radius: 100px;
+  background-color: #93b5e1;
+}
+
+.about-teams{
+  margin-top: 10%;
+}
+
+.content{
+  font-size: 20px;
+}
+
+.livhome{
+  height: 25%;
+  width: 25%;
+  border-radius: 25%;
+  float: right;
+  margin-left: 5%;
+  margin-top: 3%;
+}
+
+.squad{
+  margin-top: 15%;
+}
+
+.liv-squad{
+  height: 35%;
+  width: 35%;
+  border-radius: 20%;
+  float: left;
+  margin-right: 5%;
+  margin-bottom: 3%;
+  margin-top: 2%;
+}
+
+.liv-content{
+  font-size: 20px;
+  text-align: left;
+  margin-top: 5%;
+}
+
+.liv-players{
+  margin-top: 15%;
+}
+
+#star-link{
+  margin-top: 25%;
+}
+
+@media (max-width: 1333px){
+  .nav-link{
+    padding-left: 5%;
+    padding-top: 1%;
+    padding-right: 3%;
+  }
+
+}
+
+@media (max-width: 740px){
+  .nav-link{
+    padding-left: 3%;
+    padding-top: 1%;
+    padding-right: 2%;
+  }
+
+}
+
+@media (max-width: 615px){
+  .nav-link{
+    padding-left: 1%;
+    padding-top: 1%;
+    padding-right: 1%;
+  }
+
+}
+
+@media (max-width: 522px){
+  .nav-link{
+    padding-left: 2%;
+    padding-top: 1%;
+    padding-right: 0;
+    font-size: 120%;
+  }
+
+}
+
+@media (max-width: 1233px){
+  .team-img{
+    height: 75px;
+    width: 75px;
+    padding-left: 3%;
+    padding-right: 3%;
+  }
+}
+
+
+@media (max-width: 673px){
+  .team-img{
+    height: 62px;
+    width: 62px;
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+}
+
+@media (max-width: 1465px){
+  .spon-img{
+    height:85px;
+    width: 85px;
+    padding-left: 3%;
+    padding-right: 3%;
+    border-radius: 100%
+  }
+}
+
+@media (max-width: 931px){
+  .spon-img{
+    height:80px;
+    width: 80px;
+    padding-left: 2%;
+    padding-right: 2%;
+    border-radius: 100%
+  }
+}
+
+@media (max-width: 746px){
+  .spon-img{
+    height:75px;
+    width: 75px;
+    padding-left: 7%;
+    padding-right: 7%;
+    border-radius: 100%
+  }
+}
